@@ -44,21 +44,6 @@ DevSolux works with a clear set of principles:
 
 ---
 
-## Products
-
-- **Solux Plan**  
-  Workforce and dispatch planning operated as a managed service.
-
-- **Solux Rentman**  
-  WooCommerce integration for Rentman with real-time availability,
-  pricing logic, and checkout automation.
-
-- **Solux EpiRent**  
-  WooCommerce integration for epi.rent with structured rental logic
-  and stable data synchronization.
-
----
-
 ## Technology stack (excerpt)
 
 - **Languages:** C, C++, Python, Java, Go, Rust, PHP, TypeScript
