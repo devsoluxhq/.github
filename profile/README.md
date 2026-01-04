@@ -49,7 +49,7 @@ DevSolux works with a clear set of principles:
 - **Languages:** C, C++, Python, Java, Go, Rust, PHP, TypeScript
 - **Web & Frontend:** React, Next.js, Vue, Angular, Vite
 - **Mobile:** Android, iOS, Flutter, React Native, Tauri
-- **Backend:** Symfony, SlimPHP, Laravel, FastAPI, Flask
+- **Backend:** Symfony, SlimPHP, Laravel, CI4, FastAPI, Flask
 - **APIs:** REST, GraphQL, OpenAPI
 - **Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Firebase, Supabase
 - **DevOps:** Docker, Kubernetes, CI/CD, GitHub Actions
